@@ -26,21 +26,12 @@
   },
   "dependencies": {
     "bcrypt": "*",
-<<<<<<< HEAD
     "pug": "^2.0.3",
     "jwt-simple": "~0.5.1",
     "lodash": "~4.17.10",
     "moment": "~2.22.1",
     "nodemailer": "4.6.4",
     "uuid": "^3.2.1"
-=======
-    "jade": "^1.11.0",
-    "jwt-simple": "~0.3.0",
-    "lodash": "~3.10.0",
-    "moment": "~2.10.6",
-    "nodemailer": "1.4.0",
-    "uuid": "^1.4.2"
->>>>>>> 42a9737d7528b351525e74f891556eaf233d7c05
   },
   "author": "David Rivera <david.r.rivera193@gmail.com>",
   "contributors": [
